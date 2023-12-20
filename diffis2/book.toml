@@ -1,0 +1,9 @@
+[book]
+authors = ["Konsta Kemppainen"]
+language = "fi"
+multilingual = false
+src = "src"
+title = "Opi esimerkein: Differentiaali- ja integraalilaskenta 2"
+
+[output.html]
+mathjax-support = true
